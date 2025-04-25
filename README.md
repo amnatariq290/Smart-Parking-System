@@ -1,6 +1,6 @@
-# 🚗 Smart Parking Allocation System (DSA Lab 10)
+# 🚗 Smart Parking Allocation System 
 
-This is a Python-based Smart Parking Allocation System developed for **DSA Lab 10** by Amna Tariq at UET Taxila.
+This is a Python-based Smart Parking Allocation System developed  by Amna Tariq at UET Taxila.
 
 It simulates a multi-zone parking system that:
 - Handles multiple vehicle types (Bike, Car, Truck)
